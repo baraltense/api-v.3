@@ -1,0 +1,29 @@
+name: Ejecutar scraper y actualizar GitHub
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # Ejecutar cada 10 minutos
+  workflow_dispatch:  # Permite ejecutar manualmente el flujo de trabajo desde GitHub
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest  # Utiliza una máquina virtual en Linux
+
+    steps:
+      # Paso 1: Clonar el repositorio
+      - name: Clonar el repositorio
+        uses: actions/checkout@v2
+
+      # Paso 2: Configurar Python
+      - name: Configurar Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'  # Puedes cambiar la versión de Python si es necesario
+
+      # Paso 3: Instalar dependencias necesarias
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # Instalar las dependencias desde el archivo requirements.txt
+
+      # Paso 4: Ejecutar el scraper (el script que sube los datos al repositorio)
