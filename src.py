@@ -1,6 +1,7 @@
 import os
 import json
 from datetime import datetime
+import pytz
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -76,8 +77,11 @@ file_path = "data.json"  # Ruta del archivo donde se guardarán los datos
 # Obtener los datos del scraping usando la función de scrape_data
 scraped_data = scrape_data()
 
+# Obtener la hora de Venezuela (UTC-4)
+venezuela_tz = pytz.timezone("America/Caracas")
+timestamp = datetime.now(venezuela_tz).strftime("%Y-%m-%d %H:%M:%S")
+
 # Agregar la fecha y hora de actualización
-timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 data_to_save = {
     "data": scraped_data,
     "updated_at": timestamp
