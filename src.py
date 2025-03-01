@@ -71,9 +71,17 @@ file_path = "data.json"  # Ruta del archivo donde se guardarán los datos
 g = Github(token)
 repo = g.get_repo(repo_name)
 
-# Intentar obtener el archivo (si existe)
+# Intentar crear el archivo o actualizarlo
 try:
     file = repo.get_contents(file_path)
-    # Si existe, actualizamos el archivo
+    # Si el archivo existe, actualizamos
     repo.update_file(file.path, "Actualización de datos", json.dumps(scraped_data, indent=4), file.sha)
     print("Archivo actualizado con éxito.")
+except Exception as e:
+    print(f"Error al actualizar el archivo: {e}")
+    # Si no existe, lo creamos
+    try:
+        repo.create_file(file_path, "Creación de archivo de datos", json.dumps(scraped_data, indent=4))
+        print("Archivo creado con éxito.")
+    except Exception as e:
+        print(f"Error al crear el archivo: {e}")
