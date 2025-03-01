@@ -1,5 +1,6 @@
 import os
 import json
+from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -75,6 +76,13 @@ file_path = "data.json"  # Ruta del archivo donde se guardarán los datos
 # Obtener los datos del scraping usando la función de scrape_data
 scraped_data = scrape_data()
 
+# Agregar la fecha y hora de actualización
+timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+data_to_save = {
+    "data": scraped_data,
+    "updated_at": timestamp
+}
+
 # Autenticación y acceso al repositorio
 g = Github(token)
 
@@ -86,13 +94,13 @@ try:
     # Intentar obtener el archivo (si existe)
     try:
         file = repo.get_contents(file_path)
-        # Si existe, actualizamos el archivo
-        repo.update_file(file.path, "Actualización de datos", json.dumps(scraped_data, indent=4), file.sha)
-        print("Archivo actualizado con éxito.")
+        # Si existe, actualizamos el archivo con la fecha de actualización
+        repo.update_file(file.path, f"Actualización de datos: {timestamp}", json.dumps(data_to_save, indent=4), file.sha)
+        print(f"Archivo actualizado con éxito. Fecha: {timestamp}")
     except:
         # Si no existe, lo creamos
-        repo.create_file(file_path, "Creación de archivo de datos", json.dumps(scraped_data, indent=4))
-        print("Archivo creado con éxito.")
+        repo.create_file(file_path, f"Creación de archivo de datos: {timestamp}", json.dumps(data_to_save, indent=4))
+        print(f"Archivo creado con éxito. Fecha: {timestamp}")
 
 except Exception as e:
     print(f"Error al acceder al repositorio: {e}")
