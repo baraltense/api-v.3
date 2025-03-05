@@ -3,17 +3,17 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "77,06",
-            "change": "-0,08%",
-            "date": "05-03-2025 04:30 am",
+            "rate": "76,85",
+            "change": "+0,19%",
+            "date": "05-03-2025 04:40 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "78,86",
-            "change": "-0,09%",
-            "date": "05-03-2025 04:30 am",
+            "rate": "78,62",
+            "change": "+0,22%",
+            "date": "05-03-2025 04:40 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -141,7 +141,7 @@
             "subtitle": "VES USD",
             "rate": "78,58",
             "change": "-0,50%",
-            "date": "05-03-2025 04:30 am",
+            "date": "05-03-2025 04:40 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -179,9 +179,9 @@
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "78,58",
-            "change": "+1,89%",
-            "date": "05-03-2025 04:30 am",
+            "rate": "78,50",
+            "change": "+1,99%",
+            "date": "05-03-2025 04:40 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -201,5 +201,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/mk-frontera.png"
         }
     ],
-    "updated_at": "2025-03-05 00:39:09"
+    "updated_at": "2025-03-05 00:50:32"
 }
