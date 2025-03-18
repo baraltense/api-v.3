@@ -5,15 +5,15 @@
             "subtitle": "VES USD",
             "rate": "81,85",
             "change": "+0,01%",
-            "date": "18-03-2025 05:40 pm",
+            "date": "18-03-2025 05:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "84,01",
-            "change": "0,00%",
-            "date": "18-03-2025 05:40 pm",
+            "rate": "84,00",
+            "change": "+0,01%",
+            "date": "18-03-2025 05:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -29,7 +29,7 @@
             "subtitle": "VES USD",
             "rate": "75,62",
             "change": "0,00%",
-            "date": "18-03-2025 05:40 pm",
+            "date": "18-03-2025 05:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -147,9 +147,9 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "84,56",
-            "change": "0,00%",
-            "date": "18-03-2025 05:40 pm",
+            "rate": "84,64",
+            "change": "-0,09%",
+            "date": "18-03-2025 05:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -187,9 +187,9 @@
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "84,40",
-            "change": "+0,06%",
-            "date": "18-03-2025 05:40 pm",
+            "rate": "84,52",
+            "change": "-0,08%",
+            "date": "18-03-2025 05:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -209,5 +209,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/mk-frontera.png"
         }
     ],
-    "updated_at": "2025-03-18 13:47:20"
+    "updated_at": "2025-03-18 13:58:39"
 }
