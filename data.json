@@ -3,17 +3,17 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "84,43",
-            "change": "-2,98%",
-            "date": "19-03-2025 04:40 pm",
+            "rate": "84,48",
+            "change": "-3,04%",
+            "date": "19-03-2025 04:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "86,83",
-            "change": "-3,17%",
-            "date": "19-03-2025 04:40 pm",
+            "rate": "86,89",
+            "change": "-3,24%",
+            "date": "19-03-2025 04:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -29,7 +29,7 @@
             "subtitle": "VES USD",
             "rate": "76,86",
             "change": "-1,08%",
-            "date": "19-03-2025 04:40 pm",
+            "date": "19-03-2025 04:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -147,9 +147,9 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "87,81",
-            "change": "-2,49%",
-            "date": "19-03-2025 04:40 pm",
+            "rate": "87,84",
+            "change": "-2,52%",
+            "date": "19-03-2025 04:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -187,9 +187,9 @@
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "85,72",
-            "change": "-0,99%",
-            "date": "19-03-2025 04:40 pm",
+            "rate": "85,77",
+            "change": "-1,05%",
+            "date": "19-03-2025 04:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -209,5 +209,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/mk-frontera.png"
         }
     ],
-    "updated_at": "2025-03-19 12:44:48"
+    "updated_at": "2025-03-19 12:57:13"
 }
