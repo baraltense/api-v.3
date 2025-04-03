@@ -3,17 +3,17 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "96,31",
-            "change": "-0,06%",
-            "date": "03-04-2025 09:30 pm",
+            "rate": "96,30",
+            "change": "-0,05%",
+            "date": "03-04-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "99,99",
-            "change": "-0,03%",
-            "date": "03-04-2025 09:30 pm",
+            "rate": "99,97",
+            "change": "-0,01%",
+            "date": "03-04-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -29,7 +29,7 @@
             "subtitle": "VES USD",
             "rate": "85,03",
             "change": "0,00%",
-            "date": "03-04-2025 09:30 pm",
+            "date": "03-04-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -37,7 +37,7 @@
             "subtitle": "VES USD",
             "rate": "70,59",
             "change": "0,00%",
-            "date": "03-04-2025 09:30 pm",
+            "date": "03-04-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
@@ -155,9 +155,9 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "99,19",
-            "change": "+0,26%",
-            "date": "03-04-2025 09:30 pm",
+            "rate": "99,17",
+            "change": "+0,28%",
+            "date": "03-04-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -195,9 +195,9 @@
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "99,09",
-            "change": "-0,46%",
-            "date": "03-04-2025 09:30 pm",
+            "rate": "99,29",
+            "change": "-0,66%",
+            "date": "03-04-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -217,5 +217,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/mk-frontera.png"
         }
     ],
-    "updated_at": "2025-04-03 17:38:41"
+    "updated_at": "2025-04-03 17:49:43"
 }
