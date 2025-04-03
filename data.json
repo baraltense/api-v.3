@@ -3,17 +3,17 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "97,82",
-            "change": "+1,04%",
-            "date": "03-04-2025 12:50 pm",
+            "rate": "97,59",
+            "change": "+1,27%",
+            "date": "03-04-2025 01:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "101,76",
-            "change": "+1,18%",
-            "date": "03-04-2025 12:50 pm",
+            "rate": "101,50",
+            "change": "+1,43%",
+            "date": "03-04-2025 01:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -29,7 +29,7 @@
             "subtitle": "VES USD",
             "rate": "85,96",
             "change": "+1,30%",
-            "date": "03-04-2025 12:50 pm",
+            "date": "03-04-2025 01:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -155,9 +155,9 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "100,39",
-            "change": "+3,38%",
-            "date": "03-04-2025 12:50 pm",
+            "rate": "99,51",
+            "change": "+4,23%",
+            "date": "03-04-2025 01:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -195,9 +195,9 @@
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "102,99",
-            "change": "-1,88%",
-            "date": "03-04-2025 12:50 pm",
+            "rate": "100,74",
+            "change": "+0,35%",
+            "date": "03-04-2025 01:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -217,5 +217,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/mk-frontera.png"
         }
     ],
-    "updated_at": "2025-04-03 08:58:43"
+    "updated_at": "2025-04-03 09:33:11"
 }
