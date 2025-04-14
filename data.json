@@ -4,32 +4,32 @@
             "title": "EM",
             "subtitle": "VES USD",
             "rate": "97,10",
-            "change": "+0,37%",
-            "date": "14-04-2025 05:30 pm",
+            "change": "0,00%",
+            "date": "14-04-2025 05:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
             "rate": "99,78",
-            "change": "+0,56%",
-            "date": "14-04-2025 05:30 pm",
+            "change": "0,00%",
+            "date": "14-04-2025 05:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
             "title": "EnParaleloVzla",
             "subtitle": "VES USD",
-            "rate": "100,20",
-            "change": "+0,88%",
-            "date": "14-04-2025 12:38 pm",
+            "rate": "99,67",
+            "change": "+0,53%",
+            "date": "14-04-2025 05:08 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/enparalelovzla.png"
         },
         {
             "title": "Promedio",
             "subtitle": "VES USD",
             "rate": "89,28",
-            "change": "+0,50%",
-            "date": "14-04-2025 05:30 pm",
+            "change": "0,00%",
+            "date": "14-04-2025 05:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -147,16 +147,16 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "99,69",
-            "change": "+1,27%",
-            "date": "14-04-2025 04:20 pm",
+            "rate": "99,02",
+            "change": "+0,67%",
+            "date": "14-04-2025 05:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
             "title": "AirTM",
             "subtitle": "VES USD",
             "rate": "99,77",
-            "change": "+0,74%",
+            "change": "0,00%",
             "date": "14-04-2025 04:06 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/airtm.png"
         },
@@ -164,7 +164,7 @@
             "title": "El Dorado",
             "subtitle": "VES USD",
             "rate": "100,27",
-            "change": "+1,21%",
+            "change": "0,00%",
             "date": "14-04-2025 04:06 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/el-dorado.png"
         },
@@ -172,7 +172,7 @@
             "title": "Syklo",
             "subtitle": "VES USD",
             "rate": "100,50",
-            "change": "+1,18%",
+            "change": "0,00%",
             "date": "14-04-2025 04:06 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/syklo.png"
         },
@@ -180,16 +180,16 @@
             "title": "DolarToday BTC",
             "subtitle": "VES USD",
             "rate": "99,80",
-            "change": "+1,70%",
+            "change": "0,00%",
             "date": "14-04-2025 12:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/dolartoday-btc.png"
         },
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "99,71",
-            "change": "-0,26%",
-            "date": "14-04-2025 04:20 pm",
+            "rate": "99,25",
+            "change": "+0,46%",
+            "date": "14-04-2025 05:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -197,7 +197,7 @@
             "subtitle": "VES USD",
             "rate": "98,50",
             "change": "0,00%",
-            "date": "14-04-2025 12:32 pm",
+            "date": "14-04-2025 04:00 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/cambios-rya.png"
         },
         {
@@ -209,5 +209,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/mk-frontera.png"
         }
     ],
-    "updated_at": "2025-04-14 13:36:07"
+    "updated_at": "2025-04-14 13:47:27"
 }
