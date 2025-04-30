@@ -3,25 +3,25 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "107,18",
-            "change": "+0,35%",
-            "date": "30-04-2025 04:20 pm",
+            "rate": "107,04",
+            "change": "+0,48%",
+            "date": "30-04-2025 04:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "110,08",
-            "change": "+0,43%",
-            "date": "30-04-2025 04:20 pm",
+            "rate": "109,92",
+            "change": "+0,57%",
+            "date": "30-04-2025 04:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
             "title": "EnParaleloVzla",
             "subtitle": "VES USD",
-            "rate": "111,01",
-            "change": "-0,27%",
-            "date": "30-04-2025 12:35 pm",
+            "rate": "108,90",
+            "change": "+1,63%",
+            "date": "30-04-2025 04:35 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/enparalelovzla.png"
         },
         {
@@ -29,7 +29,7 @@
             "subtitle": "VES USD",
             "rate": "98,93",
             "change": "-0,24%",
-            "date": "30-04-2025 04:20 pm",
+            "date": "30-04-2025 04:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -163,9 +163,9 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "108,27",
-            "change": "+1,60%",
-            "date": "30-04-2025 04:20 pm",
+            "rate": "108,06",
+            "change": "+1,79%",
+            "date": "30-04-2025 04:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -195,17 +195,17 @@
         {
             "title": "DolarToday BTC",
             "subtitle": "VES USD",
-            "rate": "110,99",
-            "change": "-0,05%",
-            "date": "30-04-2025 08:30 am",
+            "rate": "108,35",
+            "change": "+2,33%",
+            "date": "30-04-2025 12:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/dolartoday-btc.png"
         },
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "108,01",
-            "change": "+0,48%",
-            "date": "30-04-2025 04:20 pm",
+            "rate": "107,11",
+            "change": "+1,31%",
+            "date": "30-04-2025 04:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -225,5 +225,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/mk-frontera.png"
         }
     ],
-    "updated_at": "2025-04-30 12:30:13"
+    "updated_at": "2025-04-30 12:50:31"
 }
