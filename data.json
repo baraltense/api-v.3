@@ -3,17 +3,17 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "106,80",
-            "change": "-0,08%",
-            "date": "30-04-2025 09:20 pm",
+            "rate": "106,84",
+            "change": "-0,12%",
+            "date": "30-04-2025 09:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "109,54",
-            "change": "+0,01%",
-            "date": "30-04-2025 09:20 pm",
+            "rate": "109,59",
+            "change": "-0,04%",
+            "date": "30-04-2025 09:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -29,7 +29,7 @@
             "subtitle": "VES USD",
             "rate": "98,24",
             "change": "0,00%",
-            "date": "30-04-2025 09:20 pm",
+            "date": "30-04-2025 09:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -37,7 +37,7 @@
             "subtitle": "VES USD",
             "rate": "87,57",
             "change": "0,00%",
-            "date": "30-04-2025 09:20 pm",
+            "date": "30-04-2025 09:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
@@ -203,9 +203,9 @@
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "106,95",
-            "change": "-0,55%",
-            "date": "30-04-2025 09:20 pm",
+            "rate": "106,91",
+            "change": "-0,51%",
+            "date": "30-04-2025 09:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -225,5 +225,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/mk-frontera.png"
         }
     ],
-    "updated_at": "2025-04-30 17:23:05"
+    "updated_at": "2025-04-30 17:39:48"
 }
