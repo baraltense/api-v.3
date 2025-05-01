@@ -3,9 +3,9 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "105,80",
-            "change": "+0,02%",
-            "date": "01-05-2025 05:40 pm",
+            "rate": "105,79",
+            "change": "+0,03%",
+            "date": "01-05-2025 05:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
@@ -13,7 +13,7 @@
             "subtitle": "VES USD",
             "rate": "108,40",
             "change": "+0,03%",
-            "date": "01-05-2025 05:40 pm",
+            "date": "01-05-2025 05:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -29,7 +29,7 @@
             "subtitle": "VES USD",
             "rate": "98,05",
             "change": "-0,05%",
-            "date": "01-05-2025 05:40 pm",
+            "date": "01-05-2025 05:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -163,9 +163,9 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "108,50",
-            "change": "-0,02%",
-            "date": "01-05-2025 05:40 pm",
+            "rate": "108,54",
+            "change": "-0,06%",
+            "date": "01-05-2025 05:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -203,9 +203,9 @@
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "107,87",
-            "change": "+0,06%",
-            "date": "01-05-2025 05:40 pm",
+            "rate": "107,75",
+            "change": "+0,17%",
+            "date": "01-05-2025 05:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -225,5 +225,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/mk-frontera.png"
         }
     ],
-    "updated_at": "2025-05-01 13:43:30"
+    "updated_at": "2025-05-01 13:56:43"
 }
