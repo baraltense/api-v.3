@@ -3,17 +3,17 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "111,95",
-            "change": "-0,20%",
-            "date": "07-05-2025 07:50 pm",
+            "rate": "112,03",
+            "change": "-0,04%",
+            "date": "07-05-2025 08:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "114,92",
-            "change": "-0,23%",
-            "date": "07-05-2025 07:50 pm",
+            "rate": "114,90",
+            "change": "+0,04%",
+            "date": "07-05-2025 08:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -27,25 +27,25 @@
         {
             "title": "Promedio",
             "subtitle": "VES USD",
-            "rate": "103,11",
+            "rate": "103,47",
             "change": "0,00%",
-            "date": "07-05-2025 06:00 pm",
+            "date": "07-05-2025 08:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
             "title": "BCV",
             "subtitle": "VES USD",
-            "rate": "91,21",
+            "rate": "91,92",
             "change": "0,00%",
-            "date": "06-05-2025 08:58 pm",
+            "date": "07-05-2025 08:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
             "title": "Bancamiga",
             "subtitle": "VES USD",
-            "rate": "88,39",
+            "rate": "92,68",
             "change": "0,00%",
-            "date": "30-04-2025 12:00 am",
+            "date": "07-05-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bancamiga.png"
         },
         {
@@ -75,9 +75,9 @@
         {
             "title": "Banco Mercantil",
             "subtitle": "VES USD",
-            "rate": "89,74",
+            "rate": "92,70",
             "change": "0,00%",
-            "date": "06-05-2025 12:00 am",
+            "date": "07-05-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-mercantil.png"
         },
         {
@@ -91,9 +91,9 @@
         {
             "title": "Banco Provincial",
             "subtitle": "VES USD",
-            "rate": "90,45",
+            "rate": "93,49",
             "change": "0,00%",
-            "date": "06-05-2025 12:00 am",
+            "date": "07-05-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
         },
         {
@@ -107,9 +107,9 @@
         {
             "title": "Banesco",
             "subtitle": "VES USD",
-            "rate": "89,60",
+            "rate": "89,02",
             "change": "0,00%",
-            "date": "06-05-2025 12:00 am",
+            "date": "07-05-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
         },
         {
@@ -131,9 +131,9 @@
         {
             "title": "BNC",
             "subtitle": "VES USD",
-            "rate": "90,99",
+            "rate": "88,73",
             "change": "0,00%",
-            "date": "06-05-2025 12:00 am",
+            "date": "07-05-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bnc.png"
         },
         {
@@ -147,17 +147,17 @@
         {
             "title": "Otras Instituciones",
             "subtitle": "VES USD",
-            "rate": "91,30",
+            "rate": "91,06",
             "change": "0,00%",
-            "date": "06-05-2025 12:00 am",
+            "date": "07-05-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         },
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "115,41",
-            "change": "-0,38%",
-            "date": "07-05-2025 07:50 pm",
+            "rate": "115,37",
+            "change": "+0,06%",
+            "date": "07-05-2025 08:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -195,9 +195,9 @@
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "114,67",
-            "change": "-1,53%",
-            "date": "07-05-2025 07:50 pm",
+            "rate": "114,03",
+            "change": "+0,23%",
+            "date": "07-05-2025 08:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -217,5 +217,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/mk-frontera.png"
         }
     ],
-    "updated_at": "2025-05-07 15:57:53"
+    "updated_at": "2025-05-07 16:29:19"
 }
