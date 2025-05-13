@@ -3,17 +3,17 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "115,39",
-            "change": "-0,08%",
-            "date": "13-05-2025 09:30 pm",
+            "rate": "115,50",
+            "change": "-0,17%",
+            "date": "13-05-2025 09:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "118,58",
-            "change": "-0,08%",
-            "date": "13-05-2025 09:30 pm",
+            "rate": "118,63",
+            "change": "-0,13%",
+            "date": "13-05-2025 09:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -29,7 +29,7 @@
             "subtitle": "VES USD",
             "rate": "106,50",
             "change": "-0,24%",
-            "date": "13-05-2025 09:30 pm",
+            "date": "13-05-2025 09:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -51,9 +51,9 @@
         {
             "title": "BanCaribe",
             "subtitle": "VES USD",
-            "rate": "93,06",
-            "change": "-1,19%",
-            "date": "13-05-2025 12:00 am",
+            "rate": "91,97",
+            "change": "0,00%",
+            "date": "08-05-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bancaribe.png"
         },
         {
@@ -75,9 +75,9 @@
         {
             "title": "Banco Mercantil",
             "subtitle": "VES USD",
-            "rate": "93,07",
-            "change": "+0,01%",
-            "date": "13-05-2025 12:00 am",
+            "rate": "93,08",
+            "change": "0,00%",
+            "date": "12-05-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-mercantil.png"
         },
         {
@@ -91,9 +91,9 @@
         {
             "title": "Banco Provincial",
             "subtitle": "VES USD",
-            "rate": "94,45",
-            "change": "-1,50%",
-            "date": "13-05-2025 12:00 am",
+            "rate": "93,05",
+            "change": "0,00%",
+            "date": "12-05-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
         },
         {
@@ -107,9 +107,9 @@
         {
             "title": "Banesco",
             "subtitle": "VES USD",
-            "rate": "93,08",
-            "change": "-0,03%",
-            "date": "13-05-2025 12:00 am",
+            "rate": "93,05",
+            "change": "0,00%",
+            "date": "12-05-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
         },
         {
@@ -149,7 +149,7 @@
             "subtitle": "VES USD",
             "rate": "93,05",
             "change": "0,00%",
-            "date": "13-05-2025 12:00 am",
+            "date": "12-05-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         },
         {
@@ -157,7 +157,7 @@
             "subtitle": "VES USD",
             "rate": "119,71",
             "change": "-0,22%",
-            "date": "13-05-2025 09:30 pm",
+            "date": "13-05-2025 09:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -195,9 +195,9 @@
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "117,08",
-            "change": "+0,48%",
-            "date": "13-05-2025 09:30 pm",
+            "rate": "118,16",
+            "change": "-0,43%",
+            "date": "13-05-2025 09:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -217,5 +217,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/mk-frontera.png"
         }
     ],
-    "updated_at": "2025-05-13 17:39:51"
+    "updated_at": "2025-05-13 17:51:18"
 }
