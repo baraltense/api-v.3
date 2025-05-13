@@ -3,9 +3,9 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "114,33",
-            "change": "-2,16%",
-            "date": "13-05-2025 01:10 pm",
+            "rate": "114,32",
+            "change": "-2,15%",
+            "date": "13-05-2025 01:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
@@ -13,7 +13,7 @@
             "subtitle": "VES USD",
             "rate": "117,36",
             "change": "-2,40%",
-            "date": "13-05-2025 01:10 pm",
+            "date": "13-05-2025 01:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -29,7 +29,7 @@
             "subtitle": "VES USD",
             "rate": "105,12",
             "change": "-0,96%",
-            "date": "13-05-2025 01:10 pm",
+            "date": "13-05-2025 01:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -155,9 +155,9 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "117,44",
-            "change": "-0,82%",
-            "date": "13-05-2025 01:10 pm",
+            "rate": "117,74",
+            "change": "-1,07%",
+            "date": "13-05-2025 01:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -195,9 +195,9 @@
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "119,09",
-            "change": "-4,67%",
-            "date": "13-05-2025 01:10 pm",
+            "rate": "119,62",
+            "change": "-5,13%",
+            "date": "13-05-2025 01:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -217,5 +217,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/mk-frontera.png"
         }
     ],
-    "updated_at": "2025-05-13 09:23:24"
+    "updated_at": "2025-05-13 09:49:34"
 }
