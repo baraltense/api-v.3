@@ -3,17 +3,17 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "124,22",
-            "change": "-2,45%",
-            "date": "20-05-2025 01:40 pm",
+            "rate": "124,27",
+            "change": "-2,49%",
+            "date": "20-05-2025 01:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "128,42",
-            "change": "-2,70%",
-            "date": "20-05-2025 01:40 pm",
+            "rate": "128,48",
+            "change": "-2,75%",
+            "date": "20-05-2025 01:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -29,7 +29,7 @@
             "subtitle": "VES USD",
             "rate": "111,67",
             "change": "-1,26%",
-            "date": "20-05-2025 01:40 pm",
+            "date": "20-05-2025 01:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -155,9 +155,9 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "130,36",
-            "change": "-1,07%",
-            "date": "20-05-2025 01:40 pm",
+            "rate": "130,31",
+            "change": "-1,03%",
+            "date": "20-05-2025 01:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -197,7 +197,7 @@
             "subtitle": "VES USD",
             "rate": "124,69",
             "change": "-0,43%",
-            "date": "20-05-2025 01:40 pm",
+            "date": "20-05-2025 01:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -217,5 +217,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/mk-frontera.png"
         }
     ],
-    "updated_at": "2025-05-20 09:49:13"
+    "updated_at": "2025-05-20 10:00:11"
 }
