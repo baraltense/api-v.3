@@ -3,17 +3,17 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "128,62",
-            "change": "+0,34%",
-            "date": "23-05-2025 04:50 pm",
+            "rate": "128,76",
+            "change": "+0,23%",
+            "date": "23-05-2025 05:10 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "133,42",
-            "change": "+0,38%",
-            "date": "23-05-2025 04:50 pm",
+            "rate": "133,58",
+            "change": "+0,26%",
+            "date": "23-05-2025 05:10 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -29,7 +29,7 @@
             "subtitle": "VES USD",
             "rate": "114,63",
             "change": "-0,39%",
-            "date": "23-05-2025 04:50 pm",
+            "date": "23-05-2025 05:10 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -171,9 +171,9 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "132,70",
-            "change": "+1,21%",
-            "date": "23-05-2025 04:50 pm",
+            "rate": "132,95",
+            "change": "+1,02%",
+            "date": "23-05-2025 05:10 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -211,9 +211,9 @@
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "132,52",
-            "change": "-0,81%",
-            "date": "23-05-2025 04:50 pm",
+            "rate": "132,70",
+            "change": "-0,94%",
+            "date": "23-05-2025 05:10 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -233,5 +233,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/mk-frontera.png"
         }
     ],
-    "updated_at": "2025-05-23 12:52:43"
+    "updated_at": "2025-05-23 13:19:03"
 }
