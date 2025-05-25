@@ -3,17 +3,17 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "128,72",
-            "change": "-0,02%",
-            "date": "24-05-2025 11:50 pm",
+            "rate": "128,74",
+            "change": "-0,03%",
+            "date": "25-05-2025 01:50 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "133,52",
-            "change": "0,00%",
-            "date": "24-05-2025 11:50 pm",
+            "rate": "133,54",
+            "change": "-0,01%",
+            "date": "25-05-2025 01:50 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -97,14 +97,6 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
         },
         {
-            "title": "Banco Sofitasa",
-            "subtitle": "VES USD",
-            "rate": "85,39",
-            "change": "0,00%",
-            "date": "25-04-2025 12:00 am",
-            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-sofitasa.png"
-        },
-        {
             "title": "Banesco",
             "subtitle": "VES USD",
             "rate": "95,26",
@@ -171,9 +163,9 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "132,64",
-            "change": "+0,01%",
-            "date": "24-05-2025 11:50 pm",
+            "rate": "132,86",
+            "change": "-0,16%",
+            "date": "25-05-2025 01:50 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -211,9 +203,9 @@
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "132,28",
-            "change": "+0,22%",
-            "date": "24-05-2025 11:50 pm",
+            "rate": "132,40",
+            "change": "+0,13%",
+            "date": "25-05-2025 01:50 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -233,5 +225,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/mk-frontera.png"
         }
     ],
-    "updated_at": "2025-05-24 19:51:20"
+    "updated_at": "2025-05-24 21:54:53"
 }
