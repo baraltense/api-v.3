@@ -3,17 +3,17 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "129,57",
+            "rate": "129,56",
             "change": "+0,05%",
-            "date": "26-05-2025 05:40 pm",
+            "date": "26-05-2025 05:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "134,50",
-            "change": "+0,04%",
-            "date": "26-05-2025 05:40 pm",
+            "rate": "134,48",
+            "change": "+0,06%",
+            "date": "26-05-2025 05:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -29,7 +29,7 @@
             "subtitle": "VES USD",
             "rate": "114,32",
             "change": "0,00%",
-            "date": "26-05-2025 05:40 pm",
+            "date": "26-05-2025 05:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -163,9 +163,9 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "135,61",
-            "change": "+0,04%",
-            "date": "26-05-2025 05:40 pm",
+            "rate": "135,39",
+            "change": "+0,20%",
+            "date": "26-05-2025 05:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -203,9 +203,9 @@
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "135,28",
-            "change": "+0,04%",
-            "date": "26-05-2025 05:40 pm",
+            "rate": "135,21",
+            "change": "+0,10%",
+            "date": "26-05-2025 05:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -225,5 +225,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/mk-frontera.png"
         }
     ],
-    "updated_at": "2025-05-26 13:46:41"
+    "updated_at": "2025-05-26 13:58:00"
 }
