@@ -121,14 +121,6 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bvc.png"
         },
         {
-            "title": "Mi Banco",
-            "subtitle": "VES USD",
-            "rate": "87,57",
-            "change": "0,00%",
-            "date": "05-05-2025 12:00 am",
-            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-mi-banco.png"
-        },
-        {
             "title": "Otras Instituciones",
             "subtitle": "VES USD",
             "rate": "97,39",
@@ -137,5 +129,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-06-03 19:51:44"
+    "updated_at": "2025-06-03 21:49:43"
 }
