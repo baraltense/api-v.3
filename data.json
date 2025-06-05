@@ -4,7 +4,7 @@
             "title": "BCV",
             "subtitle": "VES USD",
             "rate": "97,90",
-            "change": "-0,49%",
+            "change": "0,00%",
             "date": "04-06-2025 08:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
@@ -28,7 +28,7 @@
             "title": "Banco Activo",
             "subtitle": "VES USD",
             "rate": "98,80",
-            "change": "-2,97%",
+            "change": "0,00%",
             "date": "04-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-activo.png"
         },
@@ -44,7 +44,7 @@
             "title": "Banco Mercantil",
             "subtitle": "VES USD",
             "rate": "98,99",
-            "change": "-0,23%",
+            "change": "0,00%",
             "date": "04-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-mercantil.png"
         },
@@ -60,7 +60,7 @@
             "title": "Banco Provincial",
             "subtitle": "VES USD",
             "rate": "97,91",
-            "change": "-0,87%",
+            "change": "0,00%",
             "date": "04-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
         },
@@ -76,7 +76,7 @@
             "title": "Banesco",
             "subtitle": "VES USD",
             "rate": "97,31",
-            "change": "-0,47%",
+            "change": "0,00%",
             "date": "04-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
         },
@@ -124,10 +124,10 @@
             "title": "Otras Instituciones",
             "subtitle": "VES USD",
             "rate": "98,13",
-            "change": "-0,76%",
+            "change": "0,00%",
             "date": "04-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-06-05 13:30:16"
+    "updated_at": "2025-06-05 13:41:34"
 }
