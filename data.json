@@ -27,25 +27,25 @@
         {
             "title": "Banco Activo",
             "subtitle": "VES USD",
-            "rate": "98,80",
-            "change": "0,00%",
-            "date": "04-06-2025 12:00 am",
+            "rate": "100,12",
+            "change": "-1,34%",
+            "date": "10-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-activo.png"
         },
         {
             "title": "Banco Exterior",
             "subtitle": "VES USD",
-            "rate": "97,21",
-            "change": "0,00%",
-            "date": "30-05-2025 12:00 am",
+            "rate": "99,96",
+            "change": "-2,83%",
+            "date": "10-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-exterior.png"
         },
         {
             "title": "Banco Mercantil",
             "subtitle": "VES USD",
-            "rate": "99,14",
-            "change": "0,00%",
-            "date": "09-06-2025 12:00 am",
+            "rate": "99,95",
+            "change": "-0,82%",
+            "date": "10-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-mercantil.png"
         },
         {
@@ -59,9 +59,9 @@
         {
             "title": "Banco Provincial",
             "subtitle": "VES USD",
-            "rate": "99,09",
-            "change": "0,00%",
-            "date": "09-06-2025 12:00 am",
+            "rate": "99,62",
+            "change": "-0,53%",
+            "date": "10-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
         },
         {
@@ -75,9 +75,9 @@
         {
             "title": "Banesco",
             "subtitle": "VES USD",
-            "rate": "98,64",
-            "change": "0,00%",
-            "date": "09-06-2025 12:00 am",
+            "rate": "99,77",
+            "change": "-1,15%",
+            "date": "10-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
         },
         {
@@ -123,11 +123,11 @@
         {
             "title": "Otras Instituciones",
             "subtitle": "VES USD",
-            "rate": "99,30",
-            "change": "0,00%",
-            "date": "09-06-2025 12:00 am",
+            "rate": "99,72",
+            "change": "-0,42%",
+            "date": "10-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-06-10 17:56:30"
+    "updated_at": "2025-06-10 18:23:22"
 }
