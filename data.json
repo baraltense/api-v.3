@@ -17,14 +17,6 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bancamiga.png"
         },
         {
-            "title": "BanCaribe",
-            "subtitle": "VES USD",
-            "rate": "93,06",
-            "change": "0,00%",
-            "date": "13-05-2025 12:00 am",
-            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bancaribe.png"
-        },
-        {
             "title": "Banco Activo",
             "subtitle": "VES USD",
             "rate": "100,12",
@@ -129,5 +121,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-06-11 19:56:59"
+    "updated_at": "2025-06-11 22:03:06"
 }
