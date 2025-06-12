@@ -4,7 +4,7 @@
             "title": "BCV",
             "subtitle": "VES USD",
             "rate": "100,34",
-            "change": "-0,64%",
+            "change": "0,00%",
             "date": "11-06-2025 08:28 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
@@ -36,7 +36,7 @@
             "title": "Banco Mercantil",
             "subtitle": "VES USD",
             "rate": "99,89",
-            "change": "+0,06%",
+            "change": "0,00%",
             "date": "11-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-mercantil.png"
         },
@@ -52,7 +52,7 @@
             "title": "Banco Provincial",
             "subtitle": "VES USD",
             "rate": "100,20",
-            "change": "-0,58%",
+            "change": "0,00%",
             "date": "11-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
         },
@@ -68,7 +68,7 @@
             "title": "Banesco",
             "subtitle": "VES USD",
             "rate": "100,84",
-            "change": "-1,07%",
+            "change": "0,00%",
             "date": "11-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
         },
@@ -84,7 +84,7 @@
             "title": "Banplus",
             "subtitle": "VES USD",
             "rate": "100,21",
-            "change": "-1,18%",
+            "change": "0,00%",
             "date": "11-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banplus.png"
         },
@@ -100,7 +100,7 @@
             "title": "BNC",
             "subtitle": "VES USD",
             "rate": "100,45",
-            "change": "-0,88%",
+            "change": "0,00%",
             "date": "11-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bnc.png"
         },
@@ -116,10 +116,10 @@
             "title": "Otras Instituciones",
             "subtitle": "VES USD",
             "rate": "100,22",
-            "change": "-0,50%",
+            "change": "0,00%",
             "date": "11-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-06-12 13:19:46"
+    "updated_at": "2025-06-12 13:39:24"
 }
