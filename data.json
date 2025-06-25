@@ -3,9 +3,9 @@
         {
             "title": "BCV",
             "subtitle": "VES USD",
-            "rate": "105,45",
-            "change": "0,00%",
-            "date": "25-06-2025 08:50 pm",
+            "rate": "106,17",
+            "change": "-0,68%",
+            "date": "25-06-2025 09:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
@@ -27,9 +27,9 @@
         {
             "title": "Banco Activo",
             "subtitle": "VES USD",
-            "rate": "100,12",
-            "change": "0,00%",
-            "date": "10-06-2025 12:00 am",
+            "rate": "107,68",
+            "change": "-7,55%",
+            "date": "25-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-activo.png"
         },
         {
@@ -51,9 +51,9 @@
         {
             "title": "Banco Plaza",
             "subtitle": "VES USD",
-            "rate": "104,67",
-            "change": "0,00%",
-            "date": "20-06-2025 12:00 am",
+            "rate": "105,41",
+            "change": "-0,71%",
+            "date": "25-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-plaza.png"
         },
         {
@@ -75,9 +75,9 @@
         {
             "title": "Banesco",
             "subtitle": "VES USD",
-            "rate": "105,99",
-            "change": "0,00%",
-            "date": "20-06-2025 12:00 am",
+            "rate": "104,92",
+            "change": "+1,01%",
+            "date": "25-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
         },
         {
@@ -115,11 +115,11 @@
         {
             "title": "Otras Instituciones",
             "subtitle": "VES USD",
-            "rate": "105,92",
-            "change": "0,00%",
-            "date": "20-06-2025 12:00 am",
+            "rate": "105,62",
+            "change": "+0,28%",
+            "date": "25-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-06-25 16:59:27"
+    "updated_at": "2025-06-25 17:26:20"
 }
