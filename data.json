@@ -4,7 +4,7 @@
             "title": "BCV",
             "subtitle": "VES USD",
             "rate": "106,17",
-            "change": "-0,68%",
+            "change": "0,00%",
             "date": "25-06-2025 09:08 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
@@ -28,7 +28,7 @@
             "title": "Banco Activo",
             "subtitle": "VES USD",
             "rate": "107,68",
-            "change": "-7,55%",
+            "change": "0,00%",
             "date": "25-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-activo.png"
         },
@@ -52,7 +52,7 @@
             "title": "Banco Plaza",
             "subtitle": "VES USD",
             "rate": "105,41",
-            "change": "-0,71%",
+            "change": "0,00%",
             "date": "25-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-plaza.png"
         },
@@ -76,7 +76,7 @@
             "title": "Banesco",
             "subtitle": "VES USD",
             "rate": "104,92",
-            "change": "+1,01%",
+            "change": "0,00%",
             "date": "25-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
         },
@@ -108,10 +108,10 @@
             "title": "Otras Instituciones",
             "subtitle": "VES USD",
             "rate": "105,62",
-            "change": "+0,28%",
+            "change": "0,00%",
             "date": "25-06-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-06-26 13:20:09"
+    "updated_at": "2025-06-26 13:39:24"
 }
