@@ -89,14 +89,6 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banplus.png"
         },
         {
-            "title": "BDV",
-            "subtitle": "VES USD",
-            "rate": "96,97",
-            "change": "0,00%",
-            "date": "29-05-2025 12:00 am",
-            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bdv.png"
-        },
-        {
             "title": "BNC",
             "subtitle": "VES USD",
             "rate": "107,44",
@@ -113,5 +105,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-06-27 19:57:02"
+    "updated_at": "2025-06-27 22:01:18"
 }
