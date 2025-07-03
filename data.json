@@ -3,9 +3,9 @@
         {
             "title": "BCV",
             "subtitle": "VES USD",
-            "rate": "109,77",
-            "change": "0,00%",
-            "date": "03-07-2025 08:30 pm",
+            "rate": "110,56",
+            "change": "-0,72%",
+            "date": "03-07-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
@@ -113,5 +113,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-07-03 17:25:16"
+    "updated_at": "2025-07-03 17:41:03"
 }
