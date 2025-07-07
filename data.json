@@ -5,7 +5,7 @@
             "subtitle": "VES USD",
             "rate": "112,13",
             "change": "-0,64%",
-            "date": "07-07-2025 08:40 pm",
+            "date": "07-07-2025 09:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
@@ -51,17 +51,17 @@
         {
             "title": "Banco Plaza",
             "subtitle": "VES USD",
-            "rate": "109,00",
-            "change": "0,00%",
-            "date": "02-07-2025 12:00 am",
+            "rate": "111,36",
+            "change": "-2,17%",
+            "date": "07-07-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-plaza.png"
         },
         {
             "title": "Banco Provincial",
             "subtitle": "VES USD",
-            "rate": "111,74",
-            "change": "0,00%",
-            "date": "04-07-2025 12:00 am",
+            "rate": "111,42",
+            "change": "+0,29%",
+            "date": "07-07-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
         },
         {
@@ -75,17 +75,17 @@
         {
             "title": "Banesco",
             "subtitle": "VES USD",
-            "rate": "111,51",
-            "change": "0,00%",
-            "date": "04-07-2025 12:00 am",
+            "rate": "113,40",
+            "change": "-1,69%",
+            "date": "07-07-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
         },
         {
             "title": "Banplus",
             "subtitle": "VES USD",
-            "rate": "107,73",
-            "change": "0,00%",
-            "date": "30-06-2025 12:00 am",
+            "rate": "111,75",
+            "change": "-3,73%",
+            "date": "07-07-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banplus.png"
         },
         {
@@ -107,11 +107,11 @@
         {
             "title": "Otras Instituciones",
             "subtitle": "VES USD",
-            "rate": "112,07",
-            "change": "0,00%",
-            "date": "04-07-2025 12:00 am",
+            "rate": "112,36",
+            "change": "-0,26%",
+            "date": "07-07-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-07-07 16:50:44"
+    "updated_at": "2025-07-07 17:20:52"
 }
