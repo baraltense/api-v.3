@@ -4,7 +4,7 @@
             "title": "BCV",
             "subtitle": "VES USD",
             "rate": "117,40",
-            "change": "-0,50%",
+            "change": "0,00%",
             "date": "16-07-2025 08:38 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
@@ -12,7 +12,7 @@
             "title": "Bancamiga",
             "subtitle": "VES USD",
             "rate": "117,25",
-            "change": "-6,39%",
+            "change": "0,00%",
             "date": "16-07-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bancamiga.png"
         },
@@ -44,7 +44,7 @@
             "title": "Banco Mercantil",
             "subtitle": "VES USD",
             "rate": "117,89",
-            "change": "-0,76%",
+            "change": "0,00%",
             "date": "16-07-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-mercantil.png"
         },
@@ -60,7 +60,7 @@
             "title": "Banco Provincial",
             "subtitle": "VES USD",
             "rate": "117,70",
-            "change": "-0,92%",
+            "change": "0,00%",
             "date": "16-07-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
         },
@@ -76,7 +76,7 @@
             "title": "Banesco",
             "subtitle": "VES USD",
             "rate": "116,76",
-            "change": "+0,47%",
+            "change": "0,00%",
             "date": "16-07-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
         },
@@ -116,10 +116,10 @@
             "title": "Otras Instituciones",
             "subtitle": "VES USD",
             "rate": "118,67",
-            "change": "-0,97%",
+            "change": "0,00%",
             "date": "16-07-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-07-17 13:23:45"
+    "updated_at": "2025-07-17 13:46:03"
 }
