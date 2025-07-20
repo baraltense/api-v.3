@@ -1,12 +1,36 @@
 {
     "data": [
         {
+            "title": "EM",
+            "subtitle": "VES USD",
+            "rate": "140,85",
+            "change": "-0,16%",
+            "date": "20-07-2025 06:30 am",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
+        },
+        {
             "title": "BCV",
             "subtitle": "VES USD",
             "rate": "119,14",
             "change": "0,00%",
             "date": "20-07-2025 05:14 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
+        },
+        {
+            "title": "Binance",
+            "subtitle": "VES USD",
+            "rate": "152,24",
+            "change": "-0,14%",
+            "date": "20-07-2025 06:30 am",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
+        },
+        {
+            "title": "Yadio",
+            "subtitle": "VES USD",
+            "rate": "151,15",
+            "change": "+0,32%",
+            "date": "20-07-2025 06:30 am",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
             "title": "Bancamiga",
@@ -121,5 +145,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-07-20 01:57:16"
+    "updated_at": "2025-07-20 02:37:34"
 }
