@@ -1,4 +1,141 @@
 {
-    "data": [],
-    "updated_at": "2025-08-02 13:19:44"
+    "data": [
+        {
+            "title": "EM",
+            "subtitle": "VES USD",
+            "rate": "152,28",
+            "change": "-0,11%",
+            "date": "02-08-2025 05:30 pm",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
+        },
+        {
+            "title": "BCV",
+            "subtitle": "VES USD",
+            "rate": "126,28",
+            "change": "-0,69%",
+            "date": "01-08-2025 09:46 pm",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
+        },
+        {
+            "title": "Binance",
+            "subtitle": "VES USD",
+            "rate": "165,39",
+            "change": "+0,09%",
+            "date": "02-08-2025 05:30 pm",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
+        },
+        {
+            "title": "Yadio",
+            "subtitle": "VES USD",
+            "rate": "165,21",
+            "change": "+0,08%",
+            "date": "02-08-2025 05:30 pm",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
+        },
+        {
+            "title": "Bancamiga",
+            "subtitle": "VES USD",
+            "rate": "123,00",
+            "change": "0,00%",
+            "date": "30-07-2025 12:00 am",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bancamiga.png"
+        },
+        {
+            "title": "BanCaribe",
+            "subtitle": "VES USD",
+            "rate": "115,84",
+            "change": "0,00%",
+            "date": "15-07-2025 12:00 am",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bancaribe.png"
+        },
+        {
+            "title": "Banco Activo",
+            "subtitle": "VES USD",
+            "rate": "116,54",
+            "change": "0,00%",
+            "date": "14-07-2025 12:00 am",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-activo.png"
+        },
+        {
+            "title": "Banco Exterior",
+            "subtitle": "VES USD",
+            "rate": "126,48",
+            "change": "0,00%",
+            "date": "31-07-2025 12:00 am",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-exterior.png"
+        },
+        {
+            "title": "Banco Mercantil",
+            "subtitle": "VES USD",
+            "rate": "124,70",
+            "change": "0,00%",
+            "date": "29-07-2025 12:00 am",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-mercantil.png"
+        },
+        {
+            "title": "Banco Plaza",
+            "subtitle": "VES USD",
+            "rate": "122,19",
+            "change": "0,00%",
+            "date": "28-07-2025 12:00 am",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-plaza.png"
+        },
+        {
+            "title": "Banco Provincial",
+            "subtitle": "VES USD",
+            "rate": "125,12",
+            "change": "0,00%",
+            "date": "31-07-2025 12:00 am",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
+        },
+        {
+            "title": "Banesco",
+            "subtitle": "VES USD",
+            "rate": "125,04",
+            "change": "0,00%",
+            "date": "31-07-2025 12:00 am",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
+        },
+        {
+            "title": "Bangente",
+            "subtitle": "VES USD",
+            "rate": "115,84",
+            "change": "0,00%",
+            "date": "15-07-2025 12:00 am",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bangente.png"
+        },
+        {
+            "title": "Banplus",
+            "subtitle": "VES USD",
+            "rate": "118,69",
+            "change": "0,00%",
+            "date": "21-07-2025 12:00 am",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banplus.png"
+        },
+        {
+            "title": "BDV",
+            "subtitle": "VES USD",
+            "rate": "125,21",
+            "change": "0,00%",
+            "date": "31-07-2025 12:00 am",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bdv.png"
+        },
+        {
+            "title": "BNC",
+            "subtitle": "VES USD",
+            "rate": "128,15",
+            "change": "0,00%",
+            "date": "31-07-2025 12:00 am",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bnc.png"
+        },
+        {
+            "title": "Otras Instituciones",
+            "subtitle": "VES USD",
+            "rate": "126,14",
+            "change": "0,00%",
+            "date": "31-07-2025 12:00 am",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
+        }
+    ],
+    "updated_at": "2025-08-02 13:40:29"
 }
