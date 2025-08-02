@@ -3,9 +3,9 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "152,09",
-            "change": "+0,01%",
-            "date": "01-08-2025 11:40 pm",
+            "rate": "152,41",
+            "change": "-0,20%",
+            "date": "02-08-2025 02:10 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
@@ -19,17 +19,17 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "165,20",
-            "change": "+0,21%",
-            "date": "01-08-2025 11:40 pm",
+            "rate": "165,58",
+            "change": "-0,02%",
+            "date": "02-08-2025 02:10 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "164,91",
-            "change": "+0,26%",
-            "date": "01-08-2025 11:40 pm",
+            "rate": "165,26",
+            "change": "+0,05%",
+            "date": "02-08-2025 02:10 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -89,14 +89,6 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
         },
         {
-            "title": "Banco Sofitasa",
-            "subtitle": "VES USD",
-            "rate": "110,28",
-            "change": "0,00%",
-            "date": "03-07-2025 12:00 am",
-            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-sofitasa.png"
-        },
-        {
             "title": "Banesco",
             "subtitle": "VES USD",
             "rate": "125,04",
@@ -145,5 +137,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-08-01 19:57:13"
+    "updated_at": "2025-08-01 22:11:35"
 }
