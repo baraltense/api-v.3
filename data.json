@@ -3,33 +3,33 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "156,76",
-            "change": "+0,09%",
-            "date": "04-08-2025 08:50 pm",
+            "rate": "157,18",
+            "change": "-0,18%",
+            "date": "04-08-2025 09:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "BCV",
             "subtitle": "VES USD",
-            "rate": "126,28",
-            "change": "0,00%",
-            "date": "04-08-2025 08:50 pm",
+            "rate": "127,11",
+            "change": "-0,66%",
+            "date": "04-08-2025 09:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "172,16",
-            "change": "+0,11%",
-            "date": "04-08-2025 08:50 pm",
+            "rate": "172,27",
+            "change": "+0,04%",
+            "date": "04-08-2025 09:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "172,06",
-            "change": "-0,05%",
-            "date": "04-08-2025 08:50 pm",
+            "rate": "172,38",
+            "change": "-0,24%",
+            "date": "04-08-2025 09:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -107,9 +107,9 @@
         {
             "title": "Banplus",
             "subtitle": "VES USD",
-            "rate": "118,69",
-            "change": "0,00%",
-            "date": "21-07-2025 12:00 am",
+            "rate": "127,99",
+            "change": "-7,84%",
+            "date": "04-08-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banplus.png"
         },
         {
@@ -137,5 +137,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-08-04 16:51:41"
+    "updated_at": "2025-08-04 17:23:48"
 }
