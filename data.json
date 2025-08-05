@@ -3,33 +3,33 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "158,99",
-            "change": "-1,33%",
-            "date": "05-08-2025 05:20 pm",
+            "rate": "159,50",
+            "change": "-0,11%",
+            "date": "05-08-2025 05:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "BCV",
             "subtitle": "VES USD",
             "rate": "127,11",
-            "change": "-0,66%",
+            "change": "0,00%",
             "date": "04-08-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "175,29",
-            "change": "-1,71%",
-            "date": "05-08-2025 05:20 pm",
+            "rate": "176,35",
+            "change": "-0,46%",
+            "date": "05-08-2025 05:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "175,56",
-            "change": "-2,09%",
-            "date": "05-08-2025 05:20 pm",
+            "rate": "176,09",
+            "change": "-0,14%",
+            "date": "05-08-2025 05:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -108,7 +108,7 @@
             "title": "Banplus",
             "subtitle": "VES USD",
             "rate": "127,99",
-            "change": "-7,84%",
+            "change": "0,00%",
             "date": "04-08-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banplus.png"
         },
@@ -137,5 +137,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-08-05 13:22:25"
+    "updated_at": "2025-08-05 13:47:12"
 }
