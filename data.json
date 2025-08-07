@@ -3,9 +3,9 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "166,77",
-            "change": "-1,55%",
-            "date": "07-08-2025 02:00 am",
+            "rate": "167,00",
+            "change": "-1,70%",
+            "date": "07-08-2025 03:40 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
@@ -19,17 +19,17 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "186,32",
-            "change": "-2,26%",
-            "date": "07-08-2025 02:00 am",
+            "rate": "186,90",
+            "change": "-2,57%",
+            "date": "07-08-2025 03:40 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "185,74",
-            "change": "-1,84%",
-            "date": "07-08-2025 02:00 am",
+            "rate": "185,70",
+            "change": "-1,82%",
+            "date": "07-08-2025 03:40 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -67,9 +67,9 @@
         {
             "title": "Banco Mercantil",
             "subtitle": "VES USD",
-            "rate": "128,50",
-            "change": "0,00%",
-            "date": "05-08-2025 12:00 am",
+            "rate": "129,50",
+            "change": "-0,78%",
+            "date": "06-08-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-mercantil.png"
         },
         {
@@ -91,9 +91,9 @@
         {
             "title": "Banesco",
             "subtitle": "VES USD",
-            "rate": "128,69",
-            "change": "0,00%",
-            "date": "05-08-2025 12:00 am",
+            "rate": "129,43",
+            "change": "-0,58%",
+            "date": "06-08-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
         },
         {
@@ -115,27 +115,27 @@
         {
             "title": "BDV",
             "subtitle": "VES USD",
-            "rate": "125,21",
-            "change": "0,00%",
-            "date": "31-07-2025 12:00 am",
+            "rate": "128,24",
+            "change": "-2,42%",
+            "date": "06-08-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bdv.png"
         },
         {
             "title": "BNC",
             "subtitle": "VES USD",
-            "rate": "128,48",
-            "change": "0,00%",
-            "date": "05-08-2025 12:00 am",
+            "rate": "130,68",
+            "change": "-1,71%",
+            "date": "06-08-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bnc.png"
         },
         {
             "title": "Otras Instituciones",
             "subtitle": "VES USD",
-            "rate": "128,24",
-            "change": "0,00%",
-            "date": "05-08-2025 12:00 am",
+            "rate": "129,68",
+            "change": "-1,12%",
+            "date": "06-08-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-08-06 22:01:48"
+    "updated_at": "2025-08-06 23:49:43"
 }
