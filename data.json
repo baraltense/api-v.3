@@ -3,33 +3,33 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "173,16",
-            "change": "-0,03%",
-            "date": "15-08-2025 08:30 pm",
+            "rate": "173,54",
+            "change": "-0,25%",
+            "date": "15-08-2025 08:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "BCV",
             "subtitle": "VES USD",
-            "rate": "135,64",
-            "change": "0,00%",
-            "date": "15-08-2025 08:20 pm",
+            "rate": "136,89",
+            "change": "-0,92%",
+            "date": "15-08-2025 08:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "192,10",
-            "change": "-0,01%",
-            "date": "15-08-2025 08:31 pm",
+            "rate": "192,11",
+            "change": "-0,02%",
+            "date": "15-08-2025 08:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "191,72",
-            "change": "0,00%",
-            "date": "15-08-2025 08:31 pm",
+            "rate": "191,61",
+            "change": "+0,06%",
+            "date": "15-08-2025 08:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -59,41 +59,41 @@
         {
             "title": "Banco Exterior",
             "subtitle": "VES USD",
-            "rate": "130,29",
-            "change": "0,00%",
-            "date": "08-08-2025 12:00 am",
+            "rate": "137,30",
+            "change": "-5,38%",
+            "date": "15-08-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-exterior.png"
         },
         {
             "title": "Banco Mercantil",
             "subtitle": "VES USD",
-            "rate": "135,25",
-            "change": "0,00%",
-            "date": "13-08-2025 12:00 am",
+            "rate": "135,82",
+            "change": "-0,42%",
+            "date": "15-08-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-mercantil.png"
         },
         {
             "title": "Banco Plaza",
             "subtitle": "VES USD",
-            "rate": "133,52",
-            "change": "0,00%",
-            "date": "13-08-2025 12:00 am",
+            "rate": "136,06",
+            "change": "-1,90%",
+            "date": "15-08-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-plaza.png"
         },
         {
             "title": "Banco Provincial",
             "subtitle": "VES USD",
-            "rate": "136,39",
-            "change": "0,00%",
-            "date": "14-08-2025 12:00 am",
+            "rate": "137,55",
+            "change": "-0,85%",
+            "date": "15-08-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
         },
         {
             "title": "Banesco",
             "subtitle": "VES USD",
-            "rate": "134,69",
-            "change": "0,00%",
-            "date": "14-08-2025 12:00 am",
+            "rate": "139,12",
+            "change": "-3,29%",
+            "date": "15-08-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
         },
         {
@@ -123,11 +123,11 @@
         {
             "title": "Otras Instituciones",
             "subtitle": "VES USD",
-            "rate": "134,92",
-            "change": "0,00%",
-            "date": "14-08-2025 12:00 am",
+            "rate": "137,24",
+            "change": "-1,72%",
+            "date": "15-08-2025 12:00 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-08-15 16:37:20"
+    "updated_at": "2025-08-15 16:51:13"
 }
