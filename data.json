@@ -3,9 +3,9 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "186,84",
+            "rate": "186,85",
             "change": "+0,24%",
-            "date": "30-08-2025 09:30 am",
+            "date": "30-08-2025 09:40 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
@@ -19,9 +19,9 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "207,23",
-            "change": "+0,07%",
-            "date": "30-08-2025 09:30 am",
+            "rate": "207,17",
+            "change": "+0,10%",
+            "date": "30-08-2025 09:40 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -29,7 +29,7 @@
             "subtitle": "VES USD",
             "rate": "204,88",
             "change": "+0,82%",
-            "date": "30-08-2025 09:30 am",
+            "date": "30-08-2025 09:40 am",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -129,5 +129,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-08-30 05:37:58"
+    "updated_at": "2025-08-30 05:49:06"
 }
