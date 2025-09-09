@@ -3,33 +3,33 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "206,37",
-            "change": "-0,24%",
-            "date": "09-09-2025 08:00 pm",
+            "rate": "207,19",
+            "change": "-0,40%",
+            "date": "09-09-2025 08:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "BCV",
             "subtitle": "VES USD",
-            "rate": "154,98",
-            "change": "-0,63%",
-            "date": "09-09-2025 08:00 pm",
+            "rate": "156,37",
+            "change": "-0,90%",
+            "date": "09-09-2025 08:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "231,46",
-            "change": "-0,06%",
-            "date": "09-09-2025 07:50 pm",
+            "rate": "231,49",
+            "change": "+0,29%",
+            "date": "09-09-2025 08:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "233,64",
-            "change": "-0,42%",
-            "date": "09-09-2025 07:50 pm",
+            "rate": "233,37",
+            "change": "+0,05%",
+            "date": "09-09-2025 08:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -67,25 +67,25 @@
         {
             "title": "Banco Mercantil",
             "subtitle": "VES USD",
-            "rate": "153,94",
-            "change": "0,00%",
-            "date": "05-09-2025 09:40 pm",
+            "rate": "156,90",
+            "change": "-1,92%",
+            "date": "09-09-2025 08:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-mercantil.png"
         },
         {
             "title": "Banco Plaza",
             "subtitle": "VES USD",
-            "rate": "153,19",
-            "change": "0,00%",
-            "date": "05-09-2025 09:40 pm",
+            "rate": "157,00",
+            "change": "-2,48%",
+            "date": "09-09-2025 08:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-plaza.png"
         },
         {
             "title": "Banco Provincial",
             "subtitle": "VES USD",
-            "rate": "154,48",
-            "change": "0,00%",
-            "date": "05-09-2025 09:40 pm",
+            "rate": "157,02",
+            "change": "-1,65%",
+            "date": "09-09-2025 08:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
         },
         {
@@ -99,10 +99,18 @@
         {
             "title": "Banesco",
             "subtitle": "VES USD",
-            "rate": "150,53",
-            "change": "0,00%",
-            "date": "03-09-2025 09:40 pm",
+            "rate": "155,74",
+            "change": "-3,46%",
+            "date": "09-09-2025 08:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
+        },
+        {
+            "title": "Bangente",
+            "subtitle": "VES USD",
+            "rate": "156,00",
+            "change": "-34,67%",
+            "date": "09-09-2025 08:20 pm",
+            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bangente.png"
         },
         {
             "title": "Banplus",
@@ -131,11 +139,11 @@
         {
             "title": "Otras Instituciones",
             "subtitle": "VES USD",
-            "rate": "153,73",
-            "change": "0,00%",
-            "date": "05-09-2025 09:40 pm",
+            "rate": "156,39",
+            "change": "-1,73%",
+            "date": "09-09-2025 08:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-09-09 16:00:46"
+    "updated_at": "2025-09-09 16:29:48"
 }
