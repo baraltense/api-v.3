@@ -3,9 +3,9 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "212,39",
-            "change": "-0,26%",
-            "date": "11-09-2025 08:30 pm",
+            "rate": "212,35",
+            "change": "-0,24%",
+            "date": "11-09-2025 08:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
@@ -13,31 +13,31 @@
             "subtitle": "VES USD",
             "rate": "158,93",
             "change": "-0,76%",
-            "date": "11-09-2025 08:30 pm",
+            "date": "11-09-2025 08:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "237,03",
-            "change": "-0,08%",
-            "date": "11-09-2025 08:30 pm",
+            "rate": "237,18",
+            "change": "-0,14%",
+            "date": "11-09-2025 08:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "241,08",
-            "change": "0,00%",
-            "date": "11-09-2025 08:30 pm",
+            "rate": "241,14",
+            "change": "-0,02%",
+            "date": "11-09-2025 08:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
             "title": "Bancamiga",
             "subtitle": "VES USD",
-            "rate": "154,49",
-            "change": "0,00%",
-            "date": "05-09-2025 09:40 pm",
+            "rate": "162,82",
+            "change": "-5,39%",
+            "date": "11-09-2025 08:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bancamiga.png"
         },
         {
@@ -75,17 +75,17 @@
         {
             "title": "Banco Plaza",
             "subtitle": "VES USD",
-            "rate": "157,00",
-            "change": "0,00%",
-            "date": "09-09-2025 09:40 pm",
+            "rate": "158,74",
+            "change": "-1,11%",
+            "date": "11-09-2025 08:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-plaza.png"
         },
         {
             "title": "Banco Provincial",
             "subtitle": "VES USD",
-            "rate": "157,02",
-            "change": "0,00%",
-            "date": "09-09-2025 09:40 pm",
+            "rate": "159,23",
+            "change": "-1,41%",
+            "date": "11-09-2025 08:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
         },
         {
@@ -99,9 +99,9 @@
         {
             "title": "Banesco",
             "subtitle": "VES USD",
-            "rate": "155,74",
-            "change": "0,00%",
-            "date": "09-09-2025 09:40 pm",
+            "rate": "160,55",
+            "change": "-3,09%",
+            "date": "11-09-2025 08:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
         },
         {
@@ -131,19 +131,19 @@
         {
             "title": "BNC",
             "subtitle": "VES USD",
-            "rate": "151,82",
-            "change": "0,00%",
-            "date": "02-09-2025 09:40 pm",
+            "rate": "160,67",
+            "change": "-5,83%",
+            "date": "11-09-2025 08:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bnc.png"
         },
         {
             "title": "Otras Instituciones",
             "subtitle": "VES USD",
-            "rate": "156,39",
-            "change": "0,00%",
-            "date": "09-09-2025 09:40 pm",
+            "rate": "158,63",
+            "change": "-1,43%",
+            "date": "11-09-2025 08:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-09-11 16:38:06"
+    "updated_at": "2025-09-11 16:49:36"
 }
