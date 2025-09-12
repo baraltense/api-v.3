@@ -3,40 +3,40 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "211,88",
-            "change": "-0,02%",
-            "date": "12-09-2025 05:30 pm",
+            "rate": "211,68",
+            "change": "+0,09%",
+            "date": "12-09-2025 05:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "BCV",
             "subtitle": "VES USD",
             "rate": "158,93",
-            "change": "-0,76%",
+            "change": "0,00%",
             "date": "11-09-2025 08:34 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "236,65",
-            "change": "+0,08%",
-            "date": "12-09-2025 05:30 pm",
+            "rate": "236,85",
+            "change": "-0,09%",
+            "date": "12-09-2025 05:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "239,46",
-            "change": "+0,67%",
-            "date": "12-09-2025 05:30 pm",
+            "rate": "239,29",
+            "change": "+0,07%",
+            "date": "12-09-2025 05:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
             "title": "Bancamiga",
             "subtitle": "VES USD",
             "rate": "162,82",
-            "change": "-5,39%",
+            "change": "0,00%",
             "date": "11-09-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bancamiga.png"
         },
@@ -76,7 +76,7 @@
             "title": "Banco Plaza",
             "subtitle": "VES USD",
             "rate": "158,74",
-            "change": "-1,11%",
+            "change": "0,00%",
             "date": "11-09-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-plaza.png"
         },
@@ -84,7 +84,7 @@
             "title": "Banco Provincial",
             "subtitle": "VES USD",
             "rate": "159,23",
-            "change": "-1,41%",
+            "change": "0,00%",
             "date": "11-09-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
         },
@@ -100,7 +100,7 @@
             "title": "Banesco",
             "subtitle": "VES USD",
             "rate": "160,55",
-            "change": "-3,09%",
+            "change": "0,00%",
             "date": "11-09-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
         },
@@ -132,7 +132,7 @@
             "title": "BNC",
             "subtitle": "VES USD",
             "rate": "160,67",
-            "change": "-5,83%",
+            "change": "0,00%",
             "date": "11-09-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bnc.png"
         },
@@ -140,10 +140,10 @@
             "title": "Otras Instituciones",
             "subtitle": "VES USD",
             "rate": "158,63",
-            "change": "-1,43%",
+            "change": "0,00%",
             "date": "11-09-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-09-12 13:38:51"
+    "updated_at": "2025-09-12 13:50:24"
 }
