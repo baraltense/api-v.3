@@ -3,25 +3,25 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "258,06",
-            "change": "-0,35%",
-            "date": "03-10-2025 08:20 pm",
+            "rate": "258,08",
+            "change": "-0,36%",
+            "date": "03-10-2025 08:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "258,06",
-            "change": "-0,35%",
-            "date": "03-10-2025 08:20 pm",
+            "rate": "258,08",
+            "change": "-0,36%",
+            "date": "03-10-2025 08:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
             "title": "Promedio",
             "subtitle": "VES USD",
-            "rate": "221,73",
+            "rate": "221,74",
             "change": "-0,21%",
-            "date": "03-10-2025 08:20 pm",
+            "date": "03-10-2025 08:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -29,15 +29,15 @@
             "subtitle": "VES USD",
             "rate": "185,40",
             "change": "0,00%",
-            "date": "03-10-2025 08:20 pm",
+            "date": "03-10-2025 08:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "294,74",
-            "change": "-0,06%",
-            "date": "03-10-2025 08:20 pm",
+            "rate": "294,92",
+            "change": "-0,12%",
+            "date": "03-10-2025 08:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -45,7 +45,7 @@
             "subtitle": "VES USD",
             "rate": "294,12",
             "change": "-0,06%",
-            "date": "03-10-2025 08:20 pm",
+            "date": "03-10-2025 08:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -53,7 +53,7 @@
             "subtitle": "VES USD",
             "rate": "181,77",
             "change": "+2,95%",
-            "date": "03-10-2025 08:20 pm",
+            "date": "03-10-2025 08:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bancamiga.png"
         },
         {
@@ -85,7 +85,7 @@
             "subtitle": "VES USD",
             "rate": "186,07",
             "change": "-5,93%",
-            "date": "03-10-2025 08:20 pm",
+            "date": "03-10-2025 08:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-mercantil.png"
         },
         {
@@ -101,7 +101,7 @@
             "subtitle": "VES USD",
             "rate": "185,62",
             "change": "-0,74%",
-            "date": "03-10-2025 08:20 pm",
+            "date": "03-10-2025 08:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
         },
         {
@@ -117,7 +117,7 @@
             "subtitle": "VES USD",
             "rate": "185,80",
             "change": "-2,43%",
-            "date": "03-10-2025 08:20 pm",
+            "date": "03-10-2025 08:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
         },
         {
@@ -141,7 +141,7 @@
             "subtitle": "VES USD",
             "rate": "187,52",
             "change": "-0,76%",
-            "date": "03-10-2025 08:20 pm",
+            "date": "03-10-2025 08:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bnc.png"
         },
         {
@@ -149,9 +149,9 @@
             "subtitle": "VES USD",
             "rate": "186,40",
             "change": "-2,29%",
-            "date": "03-10-2025 08:20 pm",
+            "date": "03-10-2025 08:30 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-10-03 16:22:15"
+    "updated_at": "2025-10-03 16:39:45"
 }
