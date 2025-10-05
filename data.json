@@ -3,17 +3,17 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "255,76",
-            "change": "+0,54%",
-            "date": "05-10-2025 09:30 pm",
+            "rate": "255,82",
+            "change": "+0,52%",
+            "date": "05-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "255,76",
-            "change": "+0,54%",
-            "date": "05-10-2025 09:30 pm",
+            "rate": "255,82",
+            "change": "+0,52%",
+            "date": "05-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -35,9 +35,9 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "291,54",
-            "change": "+1,03%",
-            "date": "05-10-2025 09:30 pm",
+            "rate": "291,50",
+            "change": "+1,04%",
+            "date": "05-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -45,7 +45,7 @@
             "subtitle": "VES USD",
             "rate": "290,53",
             "change": "+1,16%",
-            "date": "05-10-2025 09:30 pm",
+            "date": "05-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -71,14 +71,6 @@
             "change": "0,00%",
             "date": "02-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-activo.png"
-        },
-        {
-            "title": "Banco Exterior",
-            "subtitle": "VES USD",
-            "rate": "155,86",
-            "change": "0,00%",
-            "date": "05-09-2025 09:40 pm",
-            "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-exterior.png"
         },
         {
             "title": "Banco Mercantil",
@@ -145,5 +137,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-10-05 17:37:38"
+    "updated_at": "2025-10-05 17:49:01"
 }
