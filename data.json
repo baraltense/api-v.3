@@ -3,25 +3,25 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "264,57",
-            "change": "-0,43%",
-            "date": "09-10-2025 03:50 pm",
+            "rate": "264,66",
+            "change": "-0,47%",
+            "date": "09-10-2025 04:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "264,57",
-            "change": "-0,43%",
-            "date": "09-10-2025 03:50 pm",
+            "rate": "264,66",
+            "change": "-0,47%",
+            "date": "09-10-2025 04:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
             "title": "Promedio",
             "subtitle": "VES USD",
-            "rate": "228,12",
-            "change": "-0,79%",
-            "date": "09-10-2025 02:00 pm",
+            "rate": "228,01",
+            "change": "-0,74%",
+            "date": "09-10-2025 04:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -35,9 +35,9 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "301,54",
-            "change": "-0,07%",
-            "date": "09-10-2025 03:50 pm",
+            "rate": "301,74",
+            "change": "-0,13%",
+            "date": "09-10-2025 04:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
@@ -45,7 +45,7 @@
             "subtitle": "VES USD",
             "rate": "300,84",
             "change": "-0,27%",
-            "date": "09-10-2025 03:50 pm",
+            "date": "09-10-2025 04:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -137,5 +137,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-10-09 11:56:02"
+    "updated_at": "2025-10-09 12:29:43"
 }
