@@ -3,49 +3,49 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "264,96",
-            "change": "-1,40%",
-            "date": "16-10-2025 05:30 pm",
+            "rate": "264,93",
+            "change": "+0,01%",
+            "date": "16-10-2025 05:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "264,96",
-            "change": "-1,40%",
-            "date": "16-10-2025 05:30 pm",
+            "rate": "264,93",
+            "change": "+0,01%",
+            "date": "16-10-2025 05:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
             "title": "Promedio",
             "subtitle": "VES USD",
-            "rate": "233,21",
-            "change": "-1,30%",
-            "date": "16-10-2025 05:30 pm",
+            "rate": "233,20",
+            "change": "+0,01%",
+            "date": "16-10-2025 05:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
             "title": "BCV",
             "subtitle": "VES USD",
             "rate": "201,47",
-            "change": "-1,18%",
+            "change": "0,00%",
             "date": "15-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "297,02",
-            "change": "-1,37%",
-            "date": "16-10-2025 05:30 pm",
+            "rate": "297,21",
+            "change": "-0,06%",
+            "date": "16-10-2025 05:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "296,30",
-            "change": "-1,45%",
-            "date": "16-10-2025 05:30 pm",
+            "rate": "296,47",
+            "change": "-0,06%",
+            "date": "16-10-2025 05:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -76,7 +76,7 @@
             "title": "Banco Exterior",
             "subtitle": "VES USD",
             "rate": "203,77",
-            "change": "-4,02%",
+            "change": "0,00%",
             "date": "15-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-exterior.png"
         },
@@ -84,7 +84,7 @@
             "title": "Banco Mercantil",
             "subtitle": "VES USD",
             "rate": "201,88",
-            "change": "-0,49%",
+            "change": "0,00%",
             "date": "15-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-mercantil.png"
         },
@@ -100,7 +100,7 @@
             "title": "Banco Provincial",
             "subtitle": "VES USD",
             "rate": "201,78",
-            "change": "-0,64%",
+            "change": "0,00%",
             "date": "15-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
         },
@@ -108,7 +108,7 @@
             "title": "Banesco",
             "subtitle": "VES USD",
             "rate": "201,98",
-            "change": "-0,78%",
+            "change": "0,00%",
             "date": "15-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
         },
@@ -140,7 +140,7 @@
             "title": "BNC",
             "subtitle": "VES USD",
             "rate": "198,14",
-            "change": "+1,44%",
+            "change": "0,00%",
             "date": "15-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-bnc.png"
         },
@@ -148,10 +148,10 @@
             "title": "Otras Instituciones",
             "subtitle": "VES USD",
             "rate": "201,43",
-            "change": "-0,87%",
+            "change": "0,00%",
             "date": "15-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-10-16 13:36:43"
+    "updated_at": "2025-10-16 13:47:54"
 }
