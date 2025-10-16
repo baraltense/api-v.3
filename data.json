@@ -3,17 +3,17 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "263,30",
-            "change": "-0,76%",
-            "date": "16-10-2025 01:30 pm",
+            "rate": "263,32",
+            "change": "-0,77%",
+            "date": "16-10-2025 01:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "263,30",
-            "change": "-0,76%",
-            "date": "16-10-2025 01:30 pm",
+            "rate": "263,32",
+            "change": "-0,77%",
+            "date": "16-10-2025 01:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -21,7 +21,7 @@
             "subtitle": "VES USD",
             "rate": "232,39",
             "change": "-0,95%",
-            "date": "16-10-2025 01:30 pm",
+            "date": "16-10-2025 01:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -36,16 +36,16 @@
             "title": "Binance",
             "subtitle": "VES USD",
             "rate": "294,50",
-            "change": "-0,50%",
-            "date": "16-10-2025 01:30 pm",
+            "change": "-0,51%",
+            "date": "16-10-2025 01:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "293,86",
-            "change": "-0,62%",
-            "date": "16-10-2025 01:30 pm",
+            "rate": "293,77",
+            "change": "-0,59%",
+            "date": "16-10-2025 01:50 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -153,5 +153,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-10-16 09:34:58"
+    "updated_at": "2025-10-16 09:51:41"
 }
