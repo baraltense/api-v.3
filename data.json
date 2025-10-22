@@ -3,17 +3,17 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "273,62",
+            "rate": "273,63",
             "change": "-0,76%",
-            "date": "22-10-2025 01:20 pm",
+            "date": "22-10-2025 02:00 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
             "rate": "305,30",
-            "change": "-0,62%",
-            "date": "22-10-2025 01:20 pm",
+            "change": "-0,63%",
+            "date": "22-10-2025 02:00 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
@@ -21,7 +21,7 @@
             "subtitle": "VES USD",
             "rate": "257,79",
             "change": "-0,84%",
-            "date": "22-10-2025 01:20 pm",
+            "date": "22-10-2025 02:00 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -35,17 +35,17 @@
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "305,14",
-            "change": "-0,42%",
-            "date": "22-10-2025 01:20 pm",
+            "rate": "305,77",
+            "change": "-0,63%",
+            "date": "22-10-2025 02:00 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "305,16",
-            "change": "-0,73%",
-            "date": "22-10-2025 01:20 pm",
+            "rate": "305,06",
+            "change": "-0,70%",
+            "date": "22-10-2025 02:00 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -145,5 +145,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-10-22 09:29:21"
+    "updated_at": "2025-10-22 10:15:50"
 }
