@@ -3,25 +3,25 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "274,95",
-            "change": "+0,01%",
-            "date": "24-10-2025 07:10 pm",
+            "rate": "274,93",
+            "change": "-0,02%",
+            "date": "24-10-2025 08:10 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "305,21",
-            "change": "+0,01%",
-            "date": "24-10-2025 07:10 pm",
+            "rate": "305,19",
+            "change": "-0,02%",
+            "date": "24-10-2025 08:10 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
             "title": "Promedio",
             "subtitle": "VES USD",
-            "rate": "259,86",
+            "rate": "259,80",
             "change": "-0,01%",
-            "date": "24-10-2025 06:00 pm",
+            "date": "24-10-2025 08:10 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -29,23 +29,23 @@
             "subtitle": "VES USD",
             "rate": "214,42",
             "change": "0,00%",
-            "date": "24-10-2025 07:02 am",
+            "date": "24-10-2025 08:10 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "305,49",
-            "change": "+0,09%",
-            "date": "24-10-2025 07:10 pm",
+            "rate": "305,47",
+            "change": "+0,04%",
+            "date": "24-10-2025 08:10 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "304,88",
+            "rate": "304,79",
             "change": "0,00%",
-            "date": "24-10-2025 07:10 pm",
+            "date": "24-10-2025 08:10 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -145,5 +145,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-10-24 15:11:54"
+    "updated_at": "2025-10-24 16:15:36"
 }
