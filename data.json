@@ -3,49 +3,49 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "279,59",
-            "change": "-0,84%",
-            "date": "28-10-2025 05:10 pm",
+            "rate": "279,49",
+            "change": "+0,06%",
+            "date": "28-10-2025 06:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "310,30",
-            "change": "-0,84%",
-            "date": "28-10-2025 05:10 pm",
+            "rate": "310,15",
+            "change": "+0,08%",
+            "date": "28-10-2025 06:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
             "title": "Promedio",
             "subtitle": "VES USD",
-            "rate": "264,23",
-            "change": "-0,83%",
-            "date": "28-10-2025 05:10 pm",
+            "rate": "264,30",
+            "change": "-0,01%",
+            "date": "28-10-2025 06:00 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
             "title": "BCV",
             "subtitle": "VES USD",
             "rate": "218,17",
-            "change": "-0,83%",
+            "change": "0,00%",
             "date": "27-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "310,75",
-            "change": "-0,93%",
-            "date": "28-10-2025 05:10 pm",
+            "rate": "310,07",
+            "change": "+0,12%",
+            "date": "28-10-2025 06:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "309,98",
-            "change": "-0,81%",
-            "date": "28-10-2025 05:10 pm",
+            "rate": "309,79",
+            "change": "+0,09%",
+            "date": "28-10-2025 06:20 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -76,7 +76,7 @@
             "title": "Banco Exterior",
             "subtitle": "VES USD",
             "rate": "216,37",
-            "change": "+0,35%",
+            "change": "0,00%",
             "date": "27-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-exterior.png"
         },
@@ -92,7 +92,7 @@
             "title": "Banco Plaza",
             "subtitle": "VES USD",
             "rate": "216,49",
-            "change": "+0,24%",
+            "change": "0,00%",
             "date": "27-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-plaza.png"
         },
@@ -100,7 +100,7 @@
             "title": "Banco Provincial",
             "subtitle": "VES USD",
             "rate": "219,62",
-            "change": "-1,55%",
+            "change": "0,00%",
             "date": "27-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-provincial.png"
         },
@@ -108,7 +108,7 @@
             "title": "Banesco",
             "subtitle": "VES USD",
             "rate": "221,69",
-            "change": "-2,18%",
+            "change": "0,00%",
             "date": "27-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-banesco.png"
         },
@@ -140,10 +140,10 @@
             "title": "Otras Instituciones",
             "subtitle": "VES USD",
             "rate": "218,16",
-            "change": "-0,64%",
+            "change": "0,00%",
             "date": "27-10-2025 09:40 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-10-28 13:14:00"
+    "updated_at": "2025-10-28 14:21:43"
 }
