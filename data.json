@@ -3,25 +3,25 @@
         {
             "title": "EM",
             "subtitle": "VES USD",
-            "rate": "278,00",
-            "change": "-0,03%",
-            "date": "29-10-2025 08:10 pm",
+            "rate": "278,03",
+            "change": "-0,04%",
+            "date": "29-10-2025 10:10 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/em.webp"
         },
         {
             "title": "Monitor D\u00f3lar",
             "subtitle": "VES USD",
-            "rate": "307,06",
-            "change": "-0,04%",
-            "date": "29-10-2025 08:10 pm",
+            "rate": "307,10",
+            "change": "-0,06%",
+            "date": "29-10-2025 10:10 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/md.png"
         },
         {
             "title": "Promedio",
             "subtitle": "VES USD",
-            "rate": "263,47",
+            "rate": "263,49",
             "change": "-0,03%",
-            "date": "29-10-2025 08:10 pm",
+            "date": "29-10-2025 10:00 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/average-v2.png"
         },
         {
@@ -29,23 +29,23 @@
             "subtitle": "VES USD",
             "rate": "219,87",
             "change": "0,00%",
-            "date": "29-10-2025 08:10 pm",
+            "date": "29-10-2025 09:00 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bcv.png"
         },
         {
             "title": "Binance",
             "subtitle": "VES USD",
-            "rate": "307,32",
-            "change": "+0,02%",
-            "date": "29-10-2025 08:10 pm",
+            "rate": "307,74",
+            "change": "-0,12%",
+            "date": "29-10-2025 10:10 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/binance.png"
         },
         {
             "title": "Yadio",
             "subtitle": "VES USD",
-            "rate": "306,84",
-            "change": "-0,03%",
-            "date": "29-10-2025 08:10 pm",
+            "rate": "306,94",
+            "change": "-0,06%",
+            "date": "29-10-2025 10:10 pm",
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/yadio.png"
         },
         {
@@ -145,5 +145,5 @@
             "image_url": "https://exchangemonitor.net/assets/img/rates/ve/bank-instituciones.png"
         }
     ],
-    "updated_at": "2025-10-29 16:16:22"
+    "updated_at": "2025-10-29 18:13:23"
 }
